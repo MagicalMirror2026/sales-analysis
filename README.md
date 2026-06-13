@@ -1,5 +1,5 @@
 # sales-analysis
-Analysis of sales data using Python
+
 You can use this GitHub README description for your **Sales Analysis using Python** project:
 
 # Sales Analysis using Python
